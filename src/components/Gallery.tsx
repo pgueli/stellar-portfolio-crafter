@@ -10,21 +10,21 @@ import {
 const works = [
   {
     id: 1,
-    title: "Classic Jack-o'-lantern",
-    description: "Traditional carved pumpkin with a spooky grin",
-    image: "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9",
+    title: "Detailed Portrait",
+    description: "Intricate portrait carving showcasing fine detail work",
+    image: "https://www.instagram.com/p/C4qqvPrL4Hs/media/?size=l",
   },
   {
     id: 2,
-    title: "Portrait Carving",
-    description: "Detailed portrait carved into a large pumpkin",
-    image: "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9",
+    title: "Halloween Scene",
+    description: "Spooky Halloween themed pumpkin carving",
+    image: "https://www.instagram.com/p/C4F_QOSL0Ov/media/?size=l",
   },
   {
     id: 3,
-    title: "Intricate Pattern",
-    description: "Complex geometric pattern with detailed shading",
-    image: "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9",
+    title: "Character Design",
+    description: "Creative character carving with depth and personality",
+    image: "https://www.instagram.com/p/C32JkQMLnBq/media/?size=l",
   },
 ];
 
