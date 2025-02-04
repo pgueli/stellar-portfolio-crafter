@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Github, Linkedin, Mail, Instagram, TiktokIcon } from "lucide-react";
+import { Github, Linkedin, Mail, Instagram, Music2 } from "lucide-react";
 
 const Hero = () => {
   return (
@@ -47,7 +47,7 @@ const Hero = () => {
             rel="noopener noreferrer"
             className="p-2 hover:text-orange-500 transition-colors"
           >
-            <TiktokIcon size={24} />
+            <Music2 size={24} />
           </a>
           <a
             href="mailto:your.email@example.com"
