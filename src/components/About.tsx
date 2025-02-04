@@ -24,9 +24,11 @@ const About = () => {
             </p>
           </div>
           <div className="relative">
-            <div className="aspect-square rounded-2xl bg-gradient-to-br from-orange-500/10 to-yellow-500/10 p-1">
-              <div className="w-full h-full rounded-2xl bg-white/50 backdrop-blur-sm" />
-            </div>
+            <img 
+              src="https://scontent-lga3-1.cdninstagram.com/v/t51.29350-15/465011173_1604613860472407_4932045930735999911_n.jpg?stp=dst-jpegr_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDExNjkuaGRyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=5gIc_7RHD-EQ7kNvgEaK82D&_nc_gid=02eab2beef4347d8860c683f07daf13a&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzQ5MTMyODk5MDkxMDk2NDAwNg%3D%3D.3-ccb7-5&oh=00_AYBA1oZlExjjC7HeWjk_jc42kZ1cAHJVfFtFF1HXZk1IxQ&oe=67A8723F&_nc_sid=7a9f4b"
+              alt="Pumpkin carving artist at work"
+              className="w-full h-full object-cover rounded-2xl shadow-lg"
+            />
           </div>
         </motion.div>
       </div>
